@@ -1,0 +1,78 @@
+body {
+  background-color: wheat;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+/* .header{
+    /* position: relative; */
+/* } */
+
+.header-above {
+  margin-top: 60px;
+  height: 80px;
+  background-color: purple;
+}
+.header-below {
+  height: 20px;
+  background-color: purple;
+}
+
+.profile-image {
+  border-radius: 50%;
+  position: absolute;
+  top: 0px;
+  left: 10%;
+}
+
+.content-left {
+  width: 35%;
+  margin-top: 100px;
+}
+.vertical {
+  position: absolute;
+  left: 40%;
+  top: 230px;
+  border-left: 5px solid purple;
+  height: 1250px;
+}
+.content-right {
+  position: absolute;
+  top: 30%;
+  left: 42%;
+}
+.container {
+  background-color: rgb(226, 224, 224);
+  width: 50%;
+  border-radius: 15px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.skill {
+  background-color: purple;
+  color: white;
+  padding: 1%;
+  height: 10px;
+  font-size: 20px;
+  border-radius: 15px;
+}
+.blender {
+  width: 60%;
+}
+
+.social-image {
+  color: purple;
+}
+
+.span-skill{
+  width: 200px;
+  display: inline-block;
+}
+
+hr{
+  border-top: 4px solid purple;
+}
+
+.content-right h1{
+  color: purple;
+}
